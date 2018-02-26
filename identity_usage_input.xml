@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basket>
+  <fruits>
+    <pear weight="101" shinyness="2" color="green">
+      <worm/>
+    </pear>
+    <pear weight="100" shinyness="2" color="green"/>
+    <pear weight="112" shinyness="2" color="green"/>
+    <pear weight="90" shinyness="2" color="green"/>
+    <pear weight="105" shinyness="1" color="yellow">
+      <worm/>
+    </pear>
+    <pear weight="95" shinyness="3" color="green"/>
+    <pear weight="98" shinyness="2" color="green"/>
+    <pear weight="105" shinyness="1" color="brown"/>
+    <pear weight="100" shinyness="2" color="green"/>
+    <apple weight="100" shinyness="2" color="green"/>
+    <apple weight="112" shinyness="1" color="green"/>
+    <apple weight="90" shinyness="2" color="green"/>
+    <apple weight="105" shinyness="2" color="yellow"/>
+    <apple weight="95" shinyness="3" color="green"/>
+    <apple weight="98" shinyness="2" color="green">
+      <worm/>
+    </apple>
+    <apple weight="105" shinyness="1" color="brown"/>
+  </fruits>
+</basket>
